@@ -1,1 +1,2 @@
 # Movie-Recommender-System
+Welcome to the Movie Recommender System! This system provides personalized movie recommendations based on the content of the movies users have liked in the past. Instead of relying on collaborative filtering techniques, which analyze user behavior and similarities, this system focuses on the attributes (content) of the movies themselves to suggest similar movies that users might enjoy.
